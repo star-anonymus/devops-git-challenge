@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "Deploying application..."
+echo "Deploying to STAGING environment..."
